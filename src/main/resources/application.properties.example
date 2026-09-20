@@ -1,0 +1,4 @@
+spring.application.name=api-usuario
+
+# Substitua pelos dados da sua instância MongoDB (Atlas ou local)
+spring.mongodb.uri=mongodb+srv://<usuario>:<senha>@<cluster>.mongodb.net/api_usuario?retryWrites=true&w=majority
